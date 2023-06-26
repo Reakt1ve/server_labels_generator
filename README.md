@@ -1,1 +1,0 @@
-# server_labels_generator
